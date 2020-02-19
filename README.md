@@ -41,6 +41,7 @@ Niles kisses Frasier on the cheek.
 Frasier: I love you.  I love you
 
 ```
+```
 CUT TO: the bathroom.  Daphne is standing in front of a toilet 
 with a man in a bathrobe.
 
@@ -54,6 +55,7 @@ with a man in a bathrobe.
  Daphne: [nervously] Oh, come on, it's alright.  I'm just so nervous.  
          [to the bathroom stall] Oh, dear God!  This is awful.  I want to get out of 
          Here.
+```
 ```
 ACT TWO]
 
