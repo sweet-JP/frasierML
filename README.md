@@ -78,6 +78,5 @@ Frasier sits, fighting with his mind.
          care," "I don't care," "I don't care" stick to you.  
 
 ```
-```
-```
-```
+
+###part 2
